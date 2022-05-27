@@ -32,8 +32,8 @@ Number of seconds of delay between the requests in each thread (thread number is
 Its standard installation can be integrated with python modules that augment its powers:
 
 * [advanced_scrapy_proxies](https://github.com/reanalytics-databoutique/advanced-scrapy-proxies): module to handle external lists of proxies, using them randomly and deleting not working ones
-* scrapy_splash: to render javascript code in a web page via an API
-* selenium webdriver: when you need a full headless browser working
+* [scrapy_splash](https://github.com/reanalytics-databoutique/webscraping-open-doc/blob/main/Pages/Tools/Scrapy_splash.md): to render javascript code in a web page via an API
+* [selenium webdriver](https://github.com/reanalytics-databoutique/webscraping-open-doc/blob/main/Pages/Tools/Selenium.md): when you need a full headless browser working
 
 ### Our standard and best practices
 Please read our standards and best practices for web scraping in python before implementing a new website with Scrapy.
