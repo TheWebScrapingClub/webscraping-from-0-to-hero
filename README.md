@@ -22,7 +22,7 @@ Has the website some internal or public APIs for fetching the price\product data
 Sometimes websites have JSON in their HTML, not only when there's an API. Finding this, will ensure stability.
 #### 1.4. Pagination
 How the website handles the pagination of product catalogue? Internal services that provide the html code of the catalogue are preferred vs loading the full page code
-###2. Code Best Practices
+### 2. Code Best Practices
 #### 2.1. JSON
 Use json if available (on html of the page or from API). It's less prone to changes
 #### 2.2. XPATHS
