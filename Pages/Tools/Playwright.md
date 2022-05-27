@@ -22,9 +22,9 @@ You can find our standard base configuration here.
 ### When to use Playwright
 This configuration is more computing power intesive than a simply scrapy installation so is used only when a fully rendered browser is needed, actually it works pretty well against:
 
-* Perimeterx
-* Cloudflare
-
+- [Perimeterx](https://github.com/reanalytics-databoutique/webscraping-open-doc/blob/main/Pages/Antibot/PerimeterX.md) 
+- [Cloudflare](https://github.com/reanalytics-databoutique/webscraping-open-doc/blob/main/Pages/Antibot/Cloudflare.md)
+- [Datadome](https://github.com/reanalytics-databoutique/webscraping-open-doc/blob/main/Pages/Antibot/Datadome.md)
 
 ### Reference and interesting links
 [Official website](https://playwright.dev/)
