@@ -13,6 +13,9 @@ Use [Wappalyzer Chrome Extension](https://github.com/reanalytics-databoutique/we
 
 ### Reference and interesting links
 [Official web page](https://www.cloudflare.com/en-gb/products/bot-management/)
+
 [Our in-depth with Playwright against Cloudflare](https://reanalytics.freshdesk.com/discussions/topics/28000008894)
+
 [A package for bypass Cloudflare](https://github.com/Anorov/cloudflare-scrape): maybe obsolete, not updated in 2 years
+
 [Firefox appears to be flagged as suspicious from Cloudflare](https://brianlovin.com/hn/31459258)
