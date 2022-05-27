@@ -9,7 +9,7 @@
 **BEST CHOICE**: This is among the preferred tools we use
 
 ### Configuration
-In settings.py file of the scrapy project we need to enable the middleware, as stated in the [official github repository](https://github.com/scrapy-plugins/scrapy-splash).
+In settings.py file of the [scrapy](https://github.com/reanalytics-databoutique/webscraping-open-doc/blob/main/Pages/Tools/Scrapy.md) project we need to enable the middleware, as stated in the [official github repository](https://github.com/scrapy-plugins/scrapy-splash).
 We need to declare also the variable SPLASH_URL that points to the address of a running splash server. You can install and run it via docker as explained in the github repository.
 
 ### When to use scrapy_splash
