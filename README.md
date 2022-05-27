@@ -14,8 +14,8 @@ The following practices are always evolving and feel free to suggest yours.
 ### 1.Preliminary Study
 
 #### 1.1.Technology Stack
-Perform a technology stack evaluation for the target website using Wappalyzer Chrome Extension, with attention in the "Security" block.
-When a technology stack is detected under the "Seciruty" section, please verify if in this list of technologies there is a specific solution for that technology.
+Perform a technology stack evaluation for the target website using [Wappalyzer Chrome Extension](https://github.com/reanalytics-databoutique/webscraping-open-doc/blob/0386528f99a1209a538f6d042e859cd9933011c8/Pages/Tools/Wappalyzer.md), with attention in the "Security" block.
+When a technology stack is detected under the "Security" section, please verify if in this list of technologies there is a specific solution for that technology.
 #### 1.2.API search
 Has the website some internal or public APIs for fetching the price\product data? If so, this is the best scenario available and we should use them to gather data
 #### 1.3. JSON in HTML Search
