@@ -1,27 +1,45 @@
-# Wappalyzer Chrome Extension
+# Scrapy
 
-## What is Wappalyzer Chrome Extension?
-[Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer-technology-pro/ "Wappalyzer") is a chrome browser extension that uncovers the technologies used on websites. It detects content management systems, eCommerce platforms, web servers, JavaScript frameworks, analytics tools and many more.
+## What is Scrapy?
+[Scrapy](https://scrapy.org/) is a Python framework for web scraping, maintained by [Zyte](https://www.zyte.com/). 
 
-## Our View on Wappalyzer Chrome Extension
+## Our View on Scrapy
+
+### Usage Rating of Scrapy
+**BEST CHOICE**: This is among the preferred tools we use
+Scrapy is our best choice for every website that doesn't have any particular website anti-bot tool. It's the de-facto standard in the industry for web scraping in Python.
+
+### Configuration
+With a proper default headers setting, a small number of concurrent requests on the website and a delay between them, you can scrape many of the common websites.
+Inside a standard settings.py file you will find the following voices:
+
+`USER_AGENT = "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.71 Safari/537.36"`
+This option is needed to identify you and your bot as a genuine user assigning a specific user agent, in this case a Chrome Browser.
+
+`ROBOTSTXT_OBEY = True`
+This option indicates if the scraper should follow or not the rules written in the robots.txt file on the target website. For a fair web scraping practice, should be set to True.
+
+`CONCURRENT_REQUESTS = 3`
+Number of concurrent requests Scrapy could make to the target website. Depending from the target dimension, this could vary but in our opinion should not be more than 10 to not overload target website servers and trigger anti-bot protection systems.
+
+`DOWNLOAD_DELAY = 1`
+Number of seconds of delay between the requests in each thread (thread number is specified with CONCURRENT_REQUESTS  options.
+
+Its standard installation can be integrated with python modules that augment its powers:
+
+* [advanced_scrapy_proxies](https://github.com/reanalytics-databoutique/advanced-scrapy-proxies): module to handle external lists of proxies, using them randomly and deleting not working ones
+* scrapy_splash: to render javascript code in a web page via an API
+* selenium webdriver: when you need a full headless browser working
+
+### Our standard and best practices
+Please read our standards and best practices for web scraping in python before implementing a new website with Scrapy.
+
+### When to use Scrapy
+Whenever possible, the first attempt to scrape a website should we always with a standard configuration of Scrapy (unless we already know it's not enough from the antibot analysis we performed)
 
 ### Reference and interesting links
-We didn't try many tools, but this one seems to have a good coverage. Very helpful to identify how to proceed in web scraping. Under security tab you can find which antibot system is used on the target website.
+[Official website](https://scrapy.org/)
 
-![Security tab](https://github.com/reanalytics-databoutique/webscraping-open-doc/blob/0386528f99a1209a538f6d042e859cd9933011c8/Images/Tools/Wappalyzer1.png "Security tab")
+[Short tutorial](https://towardsdatascience.com/a-minimalist-end-to-end-scrapy-tutorial-part-i-11e350bcdec0)
 
-Under Ecommerce tab you can find which commercial software, if any, is used for building the website.
-![Ecommerce tab](https://github.com/reanalytics-databoutique/webscraping-open-doc/blob/0386528f99a1209a538f6d042e859cd9933011c8/Images/Tools/Wappalizer2.png "Ecommerce tab")
-
-### When to use Wappalyzer Chrome Extension
-Always use this tool before starting a web scraping activity, to identify what technologies have been used and go straight to the possible solution
-
-### Reference and interesting links
-[Official web page](https://www.wappalyzer.com/)
-
-[Download link](https://chrome.google.com/webstore/detail/wappalyzer-technology-pro/gppongmhjkpfnbhagpmjfkannfbllamg?hl=it)
-
-[List of applications Wappalyzer detects](https://wappalyzer.com/applications)
-
-[Firefox version](https://addons.mozilla.org/en-US/firefox/addon/wappalyzer/)
 

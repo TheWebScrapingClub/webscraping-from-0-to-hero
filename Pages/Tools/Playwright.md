@@ -21,6 +21,7 @@ You can find our standard base configuration here.
 
 ### When to use Playwright
 This configuration is more computing power intesive than a simply scrapy installation so is used only when a fully rendered browser is needed, actually it works pretty well against:
+
 * Perimeterx
 * Cloudflare
 
