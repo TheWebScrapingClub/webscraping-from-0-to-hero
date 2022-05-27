@@ -1,5 +1,5 @@
 # Web scraping with Python open knowledge
-During the past several years at Re Analytics we've spent a lot of time finding the best practices for web scraping, to make it scalable and efficient to maintain.
+During the past several years at [Re Analytics](http://re-analytics.com/ "Re Analytics website") we've spent a lot of time finding the best practices for web scraping, to make it scalable and efficient to maintain.
 It's like the cat and mouse game, you need to be always updated on the latest developments but, at the same time, the information needed is very sparse on the net.
 For this reason, we started to centralize all the information we collected and the best practices we developed, to build a point of reference for the Python web scraping community. 
 Feel free to add your contributions to this repository, sharing each other's knowledge will boost the value of this repository for everyone.
