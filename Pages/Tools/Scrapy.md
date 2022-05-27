@@ -14,15 +14,19 @@ With a proper default headers setting, a small number of concurrent requests on 
 Inside a standard settings.py file you will find the following voices:
 
 `USER_AGENT = "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.71 Safari/537.36"`
+
 This option is needed to identify you and your bot as a genuine user assigning a specific user agent, in this case a Chrome Browser.
 
 `ROBOTSTXT_OBEY = True`
+
 This option indicates if the scraper should follow or not the rules written in the robots.txt file on the target website. For a fair web scraping practice, should be set to True.
 
 `CONCURRENT_REQUESTS = 3`
+
 Number of concurrent requests Scrapy could make to the target website. Depending from the target dimension, this could vary but in our opinion should not be more than 10 to not overload target website servers and trigger anti-bot protection systems.
 
 `DOWNLOAD_DELAY = 1`
+
 Number of seconds of delay between the requests in each thread (thread number is specified with CONCURRENT_REQUESTS  options.
 
 Its standard installation can be integrated with python modules that augment its powers:
