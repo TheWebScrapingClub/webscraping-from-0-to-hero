@@ -46,4 +46,20 @@ Load the fewer pages you can. Try to see if the fields you need are all availabl
 #### 3.3. Non Python scrapers with fully rendered browsers
   - [Puppeteer](https://github.com/reanalytics-databoutique/webscraping-open-doc/blob/main/Pages/Tools/Puppeteer.md)
 
-### 4. Common anti-bot softwares
+### 4. Common anti-bot softwares & techniques
+#### 4.1. Anti-bot Softwares
+- [Akamai](https://github.com/reanalytics-databoutique/webscraping-open-doc/blob/main/Pages/Antibot/Akamai.md)
+- [Cloudflare](https://github.com/reanalytics-databoutique/webscraping-open-doc/blob/main/Pages/Antibot/Cloudflare.md)
+- [Datadome](https://github.com/reanalytics-databoutique/webscraping-open-doc/blob/main/Pages/Antibot/Datadome.md)
+- [PerimeterX](https://github.com/reanalytics-databoutique/webscraping-open-doc/blob/main/Pages/Antibot/PerimeterX.md)
+- Forter
+- Riskified
+#### 4.2. Anti-bot Techniques
+- [Canvas Fingerprinting](https://github.com/reanalytics-databoutique/webscraping-open-doc/blob/main/Pages/Antibot/Canvasfingerprint.md)
+- WebGl
+- Browser Fingerprinting
+
+### 5. Test websites
+Here's a list of websites where to test your scraper and find out how many checks it passes
+- [https://bot.incolumitas.com/](https://bot.incolumitas.com/) one of the most complete set of tests for your scrapers
+- [https://pixelscan.net/](https://pixelscan.net/) check your ip and your machine
