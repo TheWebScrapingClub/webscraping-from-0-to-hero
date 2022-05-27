@@ -35,5 +35,15 @@ Don't insert rules for cleaning prices or numeric fields: formats change over di
 Load the fewer pages you can. Try to see if the fields you need are all available from product catalogue pages and try avoiding enter the single product page.
 
 ### 3. Tools
+#### 3.1. Headless python scrapers
+  **[Scrapy](https://github.com/reanalytics-databoutique/webscraping-open-doc/blob/main/Pages/Tools/Scrapy.md)
+  **[scrapy_splash](https://github.com/reanalytics-databoutique/webscraping-open-doc/blob/main/Pages/Tools/Scrapy_splash.md)
+
+#### 3.2. Python scrapers with ully rendered browsers
+  **[Playwright](https://github.com/reanalytics-databoutique/webscraping-open-doc/blob/main/Pages/Tools/Playwright.md)
+  **[playwright_stealth](https://github.com/reanalytics-databoutique/webscraping-open-doc/blob/main/Pages/Tools/Playwright_stealth.md)
+ 
+#### 3.3. Non Python scrapers with ully rendered browsers
+  **[Puppeteer](https://github.com/reanalytics-databoutique/webscraping-open-doc/blob/main/Pages/Tools/Puppeteer.md)
 
 ### 4. Common anti-bot softwares
