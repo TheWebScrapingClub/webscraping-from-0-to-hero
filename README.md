@@ -33,3 +33,7 @@ Use tabs for indentation instead of spaces - code weights less and it's easier t
 Don't insert rules for cleaning prices or numeric fields: formats change over different countries and are not standards, let's keep this task to post scraping phases in the DBs.
 #### 2.5. Product List Page wins on Single Product Page
 Load the fewer pages you can. Try to see if the fields you need are all available from product catalogue pages and try avoiding enter the single product page.
+
+### 3. Tools
+
+### 4. Common anti-bot softwares
