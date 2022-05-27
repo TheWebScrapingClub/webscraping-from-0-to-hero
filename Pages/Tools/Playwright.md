@@ -11,7 +11,7 @@ It's the best choice when there's need of a fully rendered browser to scrape a w
 
 ### Configuration
 The best configuration we've found up to date against antibot systems consists in: 
-1. playwright_stealth module
+1. [playwright_stealth](https://github.com/reanalytics-databoutique/webscraping-open-doc/blob/main/Pages/Tools/Playwright_stealth.md) module
 2. a function to randomize mouse movement
 3. selection of a consistent combination of device to emulate and browser
 4. slow_mo option to reduce the rendering speed of the browser
