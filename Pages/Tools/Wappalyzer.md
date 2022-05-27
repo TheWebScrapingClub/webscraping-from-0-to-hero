@@ -18,7 +18,10 @@ Always use this tool before starting a web scraping activity, to identify what t
 
 ### Reference and interesting links
 [Official web page](https://www.wappalyzer.com/)
+
 [Download link](https://chrome.google.com/webstore/detail/wappalyzer-technology-pro/gppongmhjkpfnbhagpmjfkannfbllamg?hl=it)
+
 [List of applications Wappalyzer detects](https://wappalyzer.com/applications)
+
 [Firefox version](https://addons.mozilla.org/en-US/firefox/addon/wappalyzer/)
 
