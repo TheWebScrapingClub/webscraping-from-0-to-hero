@@ -1,7 +1,7 @@
 # Scrapy_splash (Scrapy module)
 
 ## What is scrapy_splash?
-[Splash](https://github.com/scrapy-plugins/scrapy-splash "Splash") is the javascript rendering engine mantained by Zyte and scrapy_splash is the python module.
+[Splash](https://github.com/scrapy-plugins/scrapy-splash "Splash") is the javascript rendering engine maintained by Zyte and scrapy_splash is the python module.
 
 ## Our View on scrapy_splash
 
@@ -21,5 +21,5 @@ Usually it's enough to solve reCaptcha javascript challenges (added to a proper 
 
 [Useful article](https://www.zyte.com/blog/handling-javascript-in-scrapy-with-splash/)
 
-[Another Howto](https://medium.com/@shahwaiz055/scrapy-splash-400a03a829bf)
+[Another How-to](https://medium.com/@shahwaiz055/scrapy-splash-400a03a829bf)
 
