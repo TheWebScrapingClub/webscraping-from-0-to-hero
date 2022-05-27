@@ -7,7 +7,7 @@
 
 ### Reference and interesting links
 We didn't try many tools, but this one seems to have a good coverage. Very helpful to identify how to proceed in web scraping. Under security tab you can find which antibot system is used on the target website.
-![Security tab](https://github.com/reanalytics-databoutique/webscraping-open-doc/blob/0386528f99a1209a538f6d042e859cd9933011c8/Images/Tools/Wappalizer1.png "Security tab")
+![Security tab](https://github.com/reanalytics-databoutique/webscraping-open-doc/blob/0386528f99a1209a538f6d042e859cd9933011c8/Images/Tools/Wappalyzer1.png "Security tab")
 Under Ecommerce tab you can find which commercial software, if any, is used for building the website.
 ![Ecommerce tab](https://github.com/reanalytics-databoutique/webscraping-open-doc/blob/0386528f99a1209a538f6d042e859cd9933011c8/Images/Tools/Wappalizer2.png "Ecommerce tab")
 
