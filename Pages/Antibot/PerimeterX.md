@@ -9,8 +9,8 @@
 Use [Wappalyzer Chrome Extension](https://github.com/reanalytics-databoutique/webscraping-open-doc/blob/0386528f99a1209a538f6d042e859cd9933011c8/Pages/Tools/Wappalyzer.md), you will see it in the Security Tab
 ![PerimeterX](https://github.com/reanalytics-databoutique/webscraping-open-doc/blob/main/Images/Antibot/Perimterx1.png)
 
-### Reccomended approach to PerimeterX
-During the execution of the scraper it happens, after some pages, that a challenge like the one in the picture is trigged, blocking the execution. It's needed a fully browser to not trigger the captcha, adding some random movement of the mouse and timers before moving to another page.
+### Recommended approach to PerimeterX
+During the execution of the scraper it happens, after some pages, that a challenge like the one in the picture is triggered, blocking the execution. It's needed a fully browser to not trigger the captcha, adding some random movement of the mouse and timers before moving to another page.
 **BEST CHOICE**: [Playwright](https://github.com/reanalytics-databoutique/webscraping-open-doc/blob/main/Pages/Tools/Playwright.md) + [Stealth](https://github.com/reanalytics-databoutique/webscraping-open-doc/blob/main/Pages/Tools/Playwright_stealth.md)
 
 ### Reference and interesting links

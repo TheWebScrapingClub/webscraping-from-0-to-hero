@@ -20,7 +20,7 @@ The best configuration we've found up to date against antibot systems consists i
 You can find our standard base configuration here.
 
 ### When to use Playwright
-This configuration is more computing power intesive than a simply scrapy installation so is used only when a fully rendered browser is needed, actually it works pretty well against:
+This configuration is more computing power intensive than a simply scrapy installation so is used only when a fully rendered browser is needed, actually it works pretty well against:
 
 - [Perimeterx](https://github.com/reanalytics-databoutique/webscraping-open-doc/blob/main/Pages/Antibot/PerimeterX.md) 
 - [Cloudflare](https://github.com/reanalytics-databoutique/webscraping-open-doc/blob/main/Pages/Antibot/Cloudflare.md)
