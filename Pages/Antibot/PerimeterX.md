@@ -11,6 +11,7 @@ Use [Wappalyzer Chrome Extension](https://github.com/reanalytics-databoutique/we
 
 ### Recommended approach to PerimeterX
 During the execution of the scraper it happens, after some pages, that a challenge like the one in the picture is triggered, blocking the execution. It's needed a fully browser to not trigger the captcha, adding some random movement of the mouse and timers before moving to another page.
+
 **BEST CHOICE**: [Playwright](https://github.com/reanalytics-databoutique/webscraping-open-doc/blob/main/Pages/Tools/Playwright.md) + [Stealth](https://github.com/reanalytics-databoutique/webscraping-open-doc/blob/main/Pages/Tools/Playwright_stealth.md)
 
 ### Reference and interesting links
