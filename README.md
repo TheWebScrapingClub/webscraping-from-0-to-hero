@@ -31,6 +31,9 @@ Use Xpaths, not css selectors for getting a clearer code.
 Don't insert rules for cleaning prices or numeric fields: formats change over different countries and are not standards, let's keep this task to post scraping phases in the DBs.
 #### 2.4. Product List Page wins on Single Product Page
 Load the fewer pages you can. Try to see if the fields you need are all available from product catalogue pages and try avoiding enter the single product page.
+#### 2.5. Ip rotation
+One of the most basic actions that a target website can take against web scraping is to ban IPs that make too many requests in a certain timeframe. Given that the web scraping activity must not interfere with the website functionality and operations, if this is happening to your scrapers, you might consider splitting its execution from several machines or route it via proxies.
+Nowadays there are plenty of proxy vendors on the market and also proxies for every need, we'll go in-depth in this section.
 
 ### 3. Tools
 #### 3.1. Headless python scrapers
