@@ -2,7 +2,7 @@
 
 ## What is a proxy?
 Generally speaking, a proxy is a server that stays between a client and the target server.
-![Proxy Image from wikipedia](https://en.wikipedia.org/wiki/Proxy_server#/media/File:Proxy_concept_en.svg)
+![Proxy Image from wikipedia](https://github.com/reanalytics-databoutique/webscraping-open-project/blob/main/Images/Tools/1200px-Open_proxy_h2g2bob.jpg)
 They are tipically used in web scraping project for the following reasons:
 - Ip rotation, a single scraper execution connects to multiple proxies, so the target website doesn't see that requests are coming from a single source
 - Avoid geoblocking, some websites have different behaviours in different geographical areas.
