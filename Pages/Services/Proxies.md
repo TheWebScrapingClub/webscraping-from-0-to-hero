@@ -27,9 +27,9 @@ There are websites that offer a list of free proxies ready to use. They are free
 - **[https://www.freeproxylists.net/](https://www.freeproxylists.net/)**
 
 For professional pursposes there are several IP providers that offer their services like:
-- **[BrightData]**(https://brightdata.com/lp/proxy-network)
-- **[Oxylabs]**(https://oxylabs.io/)
-- **[Zyte]**(https://www.zyte.com/smart-proxy-manager/)
+- **[BrightData](https://brightdata.com/lp/proxy-network)**
+- **[Oxylabs](https://oxylabs.io/)**
+- **[Zyte](https://www.zyte.com/smart-proxy-manager/)**
 
 ## How to use these proxies in my projects?
 If you're using Scrapy, we developed a python package called [advanced-scrapy-proxies](https://github.com/reanalytics-databoutique/advanced-scrapy-proxies) that given a list of urls, remote or on the local machine, handles the proxy rotation. 
