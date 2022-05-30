@@ -27,11 +27,9 @@ How the website handles the pagination of product catalogue? Internal services t
 Use json if available (on html of the page or from API). It's less prone to changes
 #### 2.2. XPATHS
 Use Xpaths, not css selectors for getting a clearer code.
-#### 2.3. Indent using TABS
-Use tabs for indentation instead of spaces - code weights less and it's easier to detect badly indented structure
-#### 2.4. No formatting rules in numeric fields
+#### 2.3. No formatting rules in numeric fields
 Don't insert rules for cleaning prices or numeric fields: formats change over different countries and are not standards, let's keep this task to post scraping phases in the DBs.
-#### 2.5. Product List Page wins on Single Product Page
+#### 2.4. Product List Page wins on Single Product Page
 Load the fewer pages you can. Try to see if the fields you need are all available from product catalogue pages and try avoiding enter the single product page.
 
 ### 3. Tools
