@@ -8,7 +8,7 @@ It consists in a javascript that renders an image in background on website loadi
 ## Our View on Canvas Fingerprint
 
 ### How to Identify Canvas Fingerprint
-As far as we know, at the moment Cloudflare (in some configuration) is the only anti bot who uses this solution (not visible from wappalyzer). An homemade bot for analyzing anti bot measures can be found on discord server "[Scraping Enthusiast](https://discord.gg/Y8yuF55m7j)" managed by the developers of Puppetter and can recognize the Canvas Fingerprint using a series of queries on the website.
+As far as we know, at the moment Cloudflare (in some configuration) and reCaptcha v3 use this solution (not visible from wappalyzer). An homemade bot for analyzing anti bot measures can be found on discord server "[Scraping Enthusiast](https://discord.gg/Y8yuF55m7j)" managed by the developers of Puppetter and can recognize the Canvas Fingerprint using a series of queries on the website.
 
 
 ### Recommended approach to Canvas Fingerprint
