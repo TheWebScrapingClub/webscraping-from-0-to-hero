@@ -57,15 +57,15 @@ Nowadays there are plenty of proxy vendors on the market and also proxies for ev
 - Riskified
 #### 4.2. Anti-bot Techniques
 - [Passive fingerprinting](https://github.com/reanalytics-databoutique/webscraping-open-doc/blob/main/Pages/Antibot/Passivefingerprint.md) including:
--- [TCP/IP Fingerprint](https://github.com/reanalytics-databoutique/webscraping-open-doc/blob/main/Pages/Antibot/TcpFingerprint.md)
--- [TLS fingerprint](https://github.com/reanalytics-databoutique/webscraping-open-doc/blob/main/Pages/Antibot/TLSFingerprint.md)
--- [HTTP Fingerprint](https://github.com/reanalytics-databoutique/webscraping-open-doc/blob/main/Pages/Antibot/HttpFingerprint.md)
+  - [TCP/IP Fingerprint](https://github.com/reanalytics-databoutique/webscraping-open-doc/blob/main/Pages/Antibot/TcpFingerprint.md)
+  - [TLS fingerprint](https://github.com/reanalytics-databoutique/webscraping-open-doc/blob/main/Pages/Antibot/TLSFingerprint.md)
+  - [HTTP Fingerprint](https://github.com/reanalytics-databoutique/webscraping-open-doc/blob/main/Pages/Antibot/HttpFingerprint.md)
 - [Active fingerprinting](https://github.com/reanalytics-databoutique/webscraping-open-doc/blob/main/Pages/Antibot/Canvasfingerprint.md) including:
--- [Canvas Fingerprinting](https://github.com/reanalytics-databoutique/webscraping-open-doc/blob/main/Pages/Antibot/Canvasfingerprint.md)
--- WebGl
--- Browser Fingerprinting
+  - [Canvas Fingerprinting](https://github.com/reanalytics-databoutique/webscraping-open-doc/blob/main/Pages/Antibot/Canvasfingerprint.md)
+  - WebGl
+  - Browser Fingerprinting
 
 ### 5. Test websites
 Here's a list of websites where to test your scraper and find out how many checks it passes
-- [https://bot.incolumitas.com/](https://bot.incolumitas.com/) one of the most complete set of tests for your scrapers
-- [https://pixelscan.net/](https://pixelscan.net/) check your ip and your machine
+-[https://bot.incolumitas.com/](https://bot.incolumitas.com/) one of the most complete set of tests for your scrapers
+-[https://pixelscan.net/](https://pixelscan.net/) check your ip and your machine
