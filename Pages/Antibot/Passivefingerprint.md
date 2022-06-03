@@ -5,9 +5,9 @@ Passive fingerprinting refers to the passive collection of attributes from a net
 The difference between passive fingerprinting and active fingerprinting is that active fingerprinting sends data to "query" the client connecting while passive does not.
 
 There are several layers of attributes that can be checked and for each one, there's a different technique:
-- [TCP/IP Fingerprint](https://github.com/reanalytics-databoutique/webscraping-open-doc/blob/main/Pages/Antibot/Canvasfingerprint.md)
-- [TLS fingerprint](https://github.com/reanalytics-databoutique/webscraping-open-doc/blob/main/Pages/Antibot/Canvasfingerprint.md)
-- [HTTP Fingerprint](https://github.com/reanalytics-databoutique/webscraping-open-doc/blob/main/Pages/Antibot/Canvasfingerprint.md)
+- [TCP/IP Fingerprint](https://github.com/reanalytics-databoutique/webscraping-open-doc/blob/main/Pages/Antibot/TcpFingerprint.md)
+- [TLS fingerprint](https://github.com/reanalytics-databoutique/webscraping-open-doc/blob/main/Pages/Antibot/TLSFingerprint.md)
+- [HTTP Fingerprint](https://github.com/reanalytics-databoutique/webscraping-open-doc/blob/main/Pages/Antibot/HttpFingerprint.md)
 
 ## Possible solutions
 Generally speaking, the passive fingerprinting techniques block the configuration "outliers", so using a plausible and real world setting in the scraper is the best way to avoid blocks.
