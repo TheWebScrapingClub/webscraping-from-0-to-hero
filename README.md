@@ -70,4 +70,7 @@ Here's a list of websites where to test your scraper and find out how many check
 
 - [https://bot.incolumitas.com/](https://bot.incolumitas.com/) one of the most complete set of tests for your scrapers
 - [https://pixelscan.net/](https://pixelscan.net/) check your ip and your machine
+- [https://bot.sannysoft.com/](https://bot.sannysoft.com/) another great list of tests
+- [https://abrahamjuliot.github.io/creepjs/](https://abrahamjuliot.github.io/creepjs/) set of tests on fingerprinting
+- [https://fingerprintjs.com/products/bot-detection/](https://fingerprintjs.com/products/bot-detection/) page about BotD, a javascript bot detection library included in Cloudflare, where you can also test your configuration
 
