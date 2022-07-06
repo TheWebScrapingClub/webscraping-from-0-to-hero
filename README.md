@@ -53,6 +53,8 @@ Nowadays there are plenty of proxy vendors on the market and also proxies for ev
 - [Cloudflare](https://github.com/reanalytics-databoutique/webscraping-open-doc/blob/main/Pages/Antibot/Cloudflare.md)
 - [Datadome](https://github.com/reanalytics-databoutique/webscraping-open-doc/blob/main/Pages/Antibot/Datadome.md)
 - [PerimeterX](https://github.com/reanalytics-databoutique/webscraping-open-doc/blob/main/Pages/Antibot/PerimeterX.md)
+- [Kasada](https://github.com/reanalytics-databoutique/webscraping-open-doc/blob/main/Pages/Antibot/Kasada.md)
+- [F5 Shape Security](https://github.com/reanalytics-databoutique/webscraping-open-doc/blob/main/Pages/Antibot/Shape.md)
 - Forter
 - Riskified
 #### 4.2. Anti-bot Techniques
