@@ -11,6 +11,8 @@ Use [Wappalyzer Chrome Extension](https://github.com/reanalytics-databoutique/we
 ### Recommended approach to Cloudflare Bot Management
 **BEST CHOICE**: Depends from the configuration of the single website, but [Playwright](https://github.com/reanalytics-databoutique/webscraping-open-doc/blob/main/Pages/Tools/Playwright.md) + [Stealth](https://github.com/reanalytics-databoutique/webscraping-open-doc/blob/main/Pages/Tools/Playwright_stealth.md) are usually enough for scraping.
 
+A good solution, still to be tested by our side, is to find the IP address of the web server of the target website and then scrape from there.
+
 ### Reference and interesting links
 [Official web page](https://www.cloudflare.com/en-gb/products/bot-management/)
 
@@ -19,3 +21,5 @@ Use [Wappalyzer Chrome Extension](https://github.com/reanalytics-databoutique/we
 [A package for bypass Cloudflare](https://github.com/Anorov/cloudflare-scrape): maybe obsolete, not updated in 2 years
 
 [Firefox appears to be flagged as suspicious from Cloudflare](https://brianlovin.com/hn/31459258)
+
+[High level description](https://www.zenrows.com/blog/bypass-cloudflare#what-is-cloudflare-bot-management)
