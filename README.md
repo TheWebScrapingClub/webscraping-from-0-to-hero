@@ -47,6 +47,9 @@ Nowadays there are plenty of proxy vendors on the market and also proxies for ev
 #### 3.3. Non Python scrapers with fully rendered browsers
   - [Puppeteer](https://github.com/reanalytics-databoutique/webscraping-open-doc/blob/main/Pages/Tools/Puppeteer.md)
 
+#### 3.4. Non Python full-featured web scraping libraries
+  - [Crawlee](https://github.com/reanalytics-databoutique/webscraping-open-doc/blob/main/Pages/Tools/Crawlee.md)
+
 ### 4. Common anti-bot softwares & techniques
 #### 4.1. Anti-bot Softwares
 - [Akamai](https://github.com/reanalytics-databoutique/webscraping-open-doc/blob/main/Pages/Antibot/Akamai.md)
