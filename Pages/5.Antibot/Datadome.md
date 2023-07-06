@@ -9,9 +9,12 @@
 Use [Wappalyzer Chrome Extension](https://github.com/reanalytics-databoutique/webscraping-open-doc/blob/0386528f99a1209a538f6d042e859cd9933011c8/Pages/Tools/Wappalyzer.md)
 
 ### Recommended approach to Datadome
-**BEST CHOICE**: [Playwright](https://github.com/reanalytics-databoutique/webscraping-open-doc/blob/main/Pages/Tools/Playwright.md) + Brave browser is a good solution. An updated version of the solution techniques with code can be found on [The Web Scraping Club](https://substack.thewebscraping.club "The Web Scraping Club").
+**BEST CHOICE**: [Playwright](https://github.com/reanalytics-databoutique/webscraping-open-doc/blob/main/Pages/Tools/Playwright.md) + Brave browser is a good solution. 
+
+### How yo bypass Datadome according to The Web Scraping Club
+[Posts about Datadome](https://substack.thewebscraping.club/t/datadome)
+
 ### Reference and interesting links
 [Official web page](https://datadome.co/)
 [Tests made with online tools](https://blog.vanila.io/how-strong-is-the-datadome-5e9ff211384e)
-[List of articles on The Web Scraping Club](https://substack.thewebscraping.club/t/datadome)
 

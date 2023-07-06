@@ -14,10 +14,10 @@ During the execution of the scraper it happens, after some pages, that a challen
 
 **BEST CHOICE**: [Playwright](https://github.com/reanalytics-databoutique/webscraping-open-doc/blob/main/Pages/Tools/Playwright.md) + Firefox
 
-An updated version of the solution techniques with code can be found on [The Web Scraping Club](https://substack.thewebscraping.club "The Web Scraping Club").
+### How yo bypass PerimeterX according to The Web Scraping Club
+[Posts about PerimeterX](https://substack.thewebscraping.club/t/perimeterx)
 
 ### Reference and interesting links
 [Official web page](https://www.perimeterx.com/products/bot-defender)
 [How Perimeterx works](https://www.trickster.dev/post/how-does-perimeterx-bot-defender-work/)
-[List of articles on The Web Scraping Club](https://substack.thewebscraping.club/t/perimeterx)
 

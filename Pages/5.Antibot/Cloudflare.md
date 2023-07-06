@@ -11,7 +11,10 @@ Use [Wappalyzer Chrome Extension](https://github.com/reanalytics-databoutique/we
 ### Recommended approach to Cloudflare Bot Management
 **BEST CHOICE**: Each website can be configured with different degrees of protection. The best approach is using  [Playwright](https://github.com/reanalytics-databoutique/webscraping-open-doc/blob/main/Pages/Tools/Playwright.md) + a privacy focused browser like Brave or antidetect browser like Gologin.
 
-A good solution, still to be tested by our side, is to find the IP address of the web server of the target website and then scrape from there. An updated version of the solution techniques with code can be found on [The Web Scraping Club](https://substack.thewebscraping.club "The Web Scraping Club").
+A good solution, still to be tested by our side, is to find the IP address of the web server of the target website and then scrape from there. 
+
+### How yo bypass Cloudflare according to The Web Scraping Club
+[Posts about Cloudflare](https://substack.thewebscraping.club/t/cloudflare)
 
 ### Reference and interesting links
 [Official web page](https://www.cloudflare.com/en-gb/products/bot-management/)
@@ -24,4 +27,3 @@ A good solution, still to be tested by our side, is to find the IP address of th
 
 [High level description](https://www.zenrows.com/blog/bypass-cloudflare#what-is-cloudflare-bot-management)
 
-[List of articles on The Web Scraping Club](https://substack.thewebscraping.club/t/cloudflare)

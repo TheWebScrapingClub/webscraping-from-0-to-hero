@@ -10,7 +10,11 @@ Use [Wappalyzer Chrome Extension](https://github.com/reanalytics-databoutique/we
 
 ### Recommended approach to Akamai Bot Manager
 
-**BEST CHOICE**: a standard configuration of Akamai requires a good proxy rotation to be beaten, there's no need of a fully rendered browser 
+**BEST CHOICE**: a standard configuration of Akamai requires a good proxy rotation to be beaten, there's no need of a fully rendered browser. If there's no need to login, rotating datacenter proxies are usually enough.
+
+### How yo bypass Akamai according to The Web Scraping Club
+[Posts about Akamai](https://substack.thewebscraping.club/t/akamai)
+
 
 ### Reference and interesting links
 [Official web page](https://www.akamai.com/products/bot-manager)

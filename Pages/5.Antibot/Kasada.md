@@ -10,9 +10,11 @@ Unluckily [Wappalyzer Chrome Extension](https://github.com/reanalytics-databouti
 The first request to the website returns a 429 error (visible only from the Network inspection in the browser's developer tools), then redirect to the same page that works properly. This second request added some elements in the response headers like "x-kpsdk-ct"
 
 ### Recommended approach to Kasada
-**BEST CHOICE**: at the moment, the best approach is a [Playwright](https://github.com/reanalytics-databoutique/webscraping-open-doc/blob/main/Pages/Tools/Playwright.md) using Firefox with the right flags. An updated version of the solution techniques with code can be found on [The Web Scraping Club](https://substack.thewebscraping.club "The Web Scraping Club").
+**BEST CHOICE**: at the moment, the best approach is a [Playwright](https://github.com/reanalytics-databoutique/webscraping-open-doc/blob/main/Pages/Tools/Playwright.md) using Firefox with the right flags. 
+
+### How yo bypass Kasada according to The Web Scraping Club
+[Posts about Kasada](https://substack.thewebscraping.club/t/kasada)
 
 ### Reference and interesting links
 [Official web page](https://www.kasada.io/)
-[List of articles on The Web Scraping Club](https://substack.thewebscraping.club/t/kasada)
 
