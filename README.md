@@ -31,9 +31,9 @@ The table of content below will be updated regularly as soon as some new topics 
 
 ### 1.Before scraping a website
 #### 1.1 Is scraping that website legal?
-  - Reading terms of services of the website
-  - Is the data I want to scrape compliant with privacy laws or copyrighted?
-  - Do I really need to scrape that website or I can buy pre-scraped data?
+  - [Reading terms of services of the website](https://github.com/TheWebScrapingClub/webscraping-from-0-to-hero/blob/main/Pages/1.Before%20Scraping/Reading%20Terms.md)
+  - [Is the data I want to scrape compliant with privacy laws or copyrighted?](https://github.com/TheWebScrapingClub/webscraping-from-0-to-hero/blob/main/Pages/1.Before%20Scraping/Privacy%20and%20copyright.md)
+  - [Do I really need to scrape that website or I can buy pre-scraped data?](https://github.com/TheWebScrapingClub/webscraping-from-0-to-hero/blob/main/Pages/1.Before%20Scraping/Buy%20or%20Make.md)
 #### 1.2 Preliminary website study
   - Does the website have an API (internal or exposed)?
   - Does it have some JSON inside the HTML?
