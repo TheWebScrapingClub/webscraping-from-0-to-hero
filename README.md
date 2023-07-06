@@ -44,18 +44,18 @@ The table of content below will be updated regularly as soon as some new topics 
   - Reducing the requests number
 ### 3. Free Tools
 #### 3.1. Headless python scrapers
-  - [Scrapy](https://github.com/reanalytics-databoutique/webscraping-open-doc/blob/main/Pages/Tools/Scrapy.md)
-  - [scrapy_splash](https://github.com/reanalytics-databoutique/webscraping-open-doc/blob/main/Pages/Tools/Scrapy_splash.md)
+  - [Scrapy]([https://github.com/reanalytics-databoutique/webscraping-open-doc/blob/main/Pages/Tools/Scrapy.md](https://github.com/TheWebScrapingClub/webscraping-from-0-to-hero/blob/main/Pages/3.Free%20Tools/Scrapy.md))
+  - [scrapy_splash](https://github.com/reanalytics-databoutique/webscraping-open-doc/blob/main/Pages/3.Free%20Tools/Scrapy_splash.md)
 
 #### 3.2. Python scrapers with fully rendered browsers
-  - [Playwright](https://github.com/reanalytics-databoutique/webscraping-open-doc/blob/main/Pages/Tools/Playwright.md)
-  - [playwright_stealth](https://github.com/reanalytics-databoutique/webscraping-open-doc/blob/main/Pages/Tools/Playwright_stealth.md)
+  - [Playwright](https://github.com/reanalytics-databoutique/webscraping-open-doc/blob/main/Pages/3.Free%20Tools/Playwright.md)
+  - [playwright_stealth](https://github.com/reanalytics-databoutique/webscraping-open-doc/blob/main/Pages/3.Free%20Tools/Playwright_stealth.md)
  
 #### 3.3. Non Python scrapers with fully rendered browsers
-  - [Puppeteer](https://github.com/reanalytics-databoutique/webscraping-open-doc/blob/main/Pages/Tools/Puppeteer.md)
+  - [Puppeteer](https://github.com/reanalytics-databoutique/webscraping-open-doc/blob/main/Pages/3.Free%20Tools/Puppeteer.md)
 
 #### 3.4. Non Python full-featured web scraping libraries
-  - [Crawlee](https://github.com/reanalytics-databoutique/webscraping-open-doc/blob/main/Pages/Tools/Crawlee.md)
+  - [Crawlee](https://github.com/reanalytics-databoutique/webscraping-open-doc/blob/main/Pages/3.Free%20Tools/Crawlee.md)
 
 ### 4. Commercial Tools
   - Proxy solutions
@@ -64,23 +64,23 @@ The table of content below will be updated regularly as soon as some new topics 
 ### 5. Common anti-bot softwares & techniques
 
 #### 5.1. Anti-bot Softwares
-  - [Akamai](https://github.com/reanalytics-databoutique/webscraping-open-doc/blob/main/Pages/Antibot/Akamai.md)
-  - [Cloudflare](https://github.com/reanalytics-databoutique/webscraping-open-doc/blob/main/Pages/Antibot/Cloudflare.md)
-  - [Datadome](https://github.com/reanalytics-databoutique/webscraping-open-doc/blob/main/Pages/Antibot/Datadome.md)
-  - [PerimeterX](https://github.com/reanalytics-databoutique/webscraping-open-doc/blob/main/Pages/Antibot/PerimeterX.md)
-  - [Kasada](https://github.com/reanalytics-databoutique/webscraping-open-doc/blob/main/Pages/Antibot/Kasada.md)
-  - [F5 Shape Security](https://github.com/reanalytics-databoutique/webscraping-open-doc/blob/main/Pages/Antibot/Shape.md)
+  - [Akamai](https://github.com/reanalytics-databoutique/webscraping-open-doc/blob/main/Pages/5.Antibot/Akamai.md)
+  - [Cloudflare](https://github.com/reanalytics-databoutique/webscraping-open-doc/blob/main/Pages/5.Antibot/Cloudflare.md)
+  - [Datadome](https://github.com/reanalytics-databoutique/webscraping-open-doc/blob/main/Pages/5.Antibot/Datadome.md)
+  - [PerimeterX](https://github.com/reanalytics-databoutique/webscraping-open-doc/blob/main/Pages/5.Antibot/PerimeterX.md)
+  - [Kasada](https://github.com/reanalytics-databoutique/webscraping-open-doc/blob/main/Pages/5.Antibot/Kasada.md)
+  - [F5 Shape Security](https://github.com/reanalytics-databoutique/webscraping-open-doc/blob/main/Pages/5.Antibot/Shape.md)
   - Forter
   - Riskified
 #### 5.2. Anti-bot Techniques
-  - [Passive fingerprinting](https://github.com/reanalytics-databoutique/webscraping-open-doc/blob/main/Pages/Antibot/Passivefingerprint.md) including:
-    - [TCP/IP Fingerprint](https://github.com/reanalytics-databoutique/webscraping-open-doc/blob/main/Pages/Antibot/TcpFingerprint.md)
-    - [TLS fingerprint](https://github.com/reanalytics-databoutique/webscraping-open-doc/blob/main/Pages/Antibot/TLSFingerprint.md)
-    - [HTTP Fingerprint](https://github.com/reanalytics-databoutique/webscraping-open-doc/blob/main/Pages/Antibot/HttpFingerprint.md)
-  - [Browser Fingerprinting](https://github.com/reanalytics-databoutique/webscraping-open-doc/blob/main/Pages/Antibot/Browserfingerprint.md) techniques including:
-    - [Canvas Fingerprinting](https://github.com/reanalytics-databoutique/webscraping-open-doc/blob/main/Pages/Antibot/Canvasfingerprint.md)
-    - [WebGL Fingerprinting](https://github.com/reanalytics-databoutique/webscraping-open-doc/blob/main/Pages/Antibot/Webglfingerprint.md)
-    - [Device Fingerprinting](https://github.com/reanalytics-databoutique/webscraping-open-doc/blob/main/Pages/Antibot/Devicefingerprint.md)
+  - [Passive fingerprinting](https://github.com/reanalytics-databoutique/webscraping-open-doc/blob/main/Pages/5.Antibot/Passivefingerprint.md) including:
+    - [TCP/IP Fingerprint](https://github.com/reanalytics-databoutique/webscraping-open-doc/blob/main/Pages/5.Antibot/TcpFingerprint.md)
+    - [TLS fingerprint](https://github.com/reanalytics-databoutique/webscraping-open-doc/blob/main/Pages/5.Antibot/TLSFingerprint.md)
+    - [HTTP Fingerprint](https://github.com/reanalytics-databoutique/webscraping-open-doc/blob/main/Pages/5.Antibot/HttpFingerprint.md)
+  - [Browser Fingerprinting](https://github.com/reanalytics-databoutique/webscraping-open-doc/blob/main/Pages/5.Antibot/Browserfingerprint.md) techniques including:
+    - [Canvas Fingerprinting](https://github.com/reanalytics-databoutique/webscraping-open-doc/blob/main/Pages/5.Antibot/Canvasfingerprint.md)
+    - [WebGL Fingerprinting](https://github.com/reanalytics-databoutique/webscraping-open-doc/blob/main/Pages/5.Antibot/Webglfingerprint.md)
+    - [Device Fingerprinting](https://github.com/reanalytics-databoutique/webscraping-open-doc/blob/main/Pages/5.Antibot/Devicefingerprint.md)
 
 ### 6. Test websites for your scraper
   - [https://bot.incolumitas.com/](https://bot.incolumitas.com/) one of the most complete set of tests for your scrapers
