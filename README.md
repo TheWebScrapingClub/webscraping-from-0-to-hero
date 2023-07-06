@@ -42,7 +42,7 @@ The table of content below will be updated regularly as soon as some new topics 
   - Selectors
   - Data formatting
   - Reducing the requests number
-### 3. Tools
+### 3. Free Tools
 #### 3.1. Headless python scrapers
   - [Scrapy](https://github.com/reanalytics-databoutique/webscraping-open-doc/blob/main/Pages/Tools/Scrapy.md)
   - [scrapy_splash](https://github.com/reanalytics-databoutique/webscraping-open-doc/blob/main/Pages/Tools/Scrapy_splash.md)
@@ -57,8 +57,13 @@ The table of content below will be updated regularly as soon as some new topics 
 #### 3.4. Non Python full-featured web scraping libraries
   - [Crawlee](https://github.com/reanalytics-databoutique/webscraping-open-doc/blob/main/Pages/Tools/Crawlee.md)
 
-### 4. Common anti-bot softwares & techniques
-#### 4.1. Anti-bot Softwares
+### 4. Commercial Tools
+  - Proxy solutions
+  - Scraping API
+  
+### 5. Common anti-bot softwares & techniques
+
+#### 5.1. Anti-bot Softwares
   - [Akamai](https://github.com/reanalytics-databoutique/webscraping-open-doc/blob/main/Pages/Antibot/Akamai.md)
   - [Cloudflare](https://github.com/reanalytics-databoutique/webscraping-open-doc/blob/main/Pages/Antibot/Cloudflare.md)
   - [Datadome](https://github.com/reanalytics-databoutique/webscraping-open-doc/blob/main/Pages/Antibot/Datadome.md)
@@ -67,7 +72,7 @@ The table of content below will be updated regularly as soon as some new topics 
   - [F5 Shape Security](https://github.com/reanalytics-databoutique/webscraping-open-doc/blob/main/Pages/Antibot/Shape.md)
   - Forter
   - Riskified
-#### 4.2. Anti-bot Techniques
+#### 5.2. Anti-bot Techniques
   - [Passive fingerprinting](https://github.com/reanalytics-databoutique/webscraping-open-doc/blob/main/Pages/Antibot/Passivefingerprint.md) including:
     - [TCP/IP Fingerprint](https://github.com/reanalytics-databoutique/webscraping-open-doc/blob/main/Pages/Antibot/TcpFingerprint.md)
     - [TLS fingerprint](https://github.com/reanalytics-databoutique/webscraping-open-doc/blob/main/Pages/Antibot/TLSFingerprint.md)
@@ -77,14 +82,14 @@ The table of content below will be updated regularly as soon as some new topics 
     - [WebGL Fingerprinting](https://github.com/reanalytics-databoutique/webscraping-open-doc/blob/main/Pages/Antibot/Webglfingerprint.md)
     - [Device Fingerprinting](https://github.com/reanalytics-databoutique/webscraping-open-doc/blob/main/Pages/Antibot/Devicefingerprint.md)
 
-### 5. Test websites for your scraper
+### 6. Test websites for your scraper
   - [https://bot.incolumitas.com/](https://bot.incolumitas.com/) one of the most complete set of tests for your scrapers
   - [https://pixelscan.net/](https://pixelscan.net/) check your ip and your machine
   - [https://bot.sannysoft.com/](https://bot.sannysoft.com/) another great list of tests
   - [https://abrahamjuliot.github.io/creepjs/](https://abrahamjuliot.github.io/creepjs/) set of tests on fingerprinting
   - [https://fingerprintjs.com/products/bot-detection/](https://fingerprintjs.com/products/bot-detection/) page about BotD, a javascript bot detection library included in Cloudflare, where you can also test your configuration
 
-### 6. How to make money with web scraping
+### 7. How to make money with web scraping
   - Freelancing
   - Sell your scrapers with Apify
   - Sell your data on Databoutique.com
