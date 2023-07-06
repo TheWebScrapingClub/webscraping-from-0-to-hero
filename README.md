@@ -31,7 +31,7 @@ The table of content below will be updated regularly as soon as some new topics 
 
 ### 1.Before scraping a website
 #### 1.1 Is scraping that website legal?
-  - Reading terms and conditions of the website
+  - Reading terms of services of the website
   - Is the data I want to scrape compliant with privacy laws or copyrighted?
   - Do I really need to scrape that website or I can buy pre-scraped data?
 #### 1.2 Preliminary website study
